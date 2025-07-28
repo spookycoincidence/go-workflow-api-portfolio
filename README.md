@@ -58,7 +58,10 @@ go run main.go
 
 
 ## 📝 Inspiración
-Este proyecto está basado y adaptado del repositorio original StarpTech/go-web, con modificaciones para ajustarlo a un sistema de gestión de proyectos y tareas personalizado..
+Este proyecto está basado y adaptado del repositorio original StarpTech/go-web, con modificaciones para ajustarlo a un sistema de gestión de proyectos y tareas personalizado
+Licencia original: MIT License
+
+El código fue modificado con fines educativos y de demostración técnica, sin fines comerciales.
 
 ## Desarrollado con ❤️ por spookycoincidence
 
